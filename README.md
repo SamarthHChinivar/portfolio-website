@@ -1,12 +1,5 @@
 # Demonstration of Project
 
-<img src="./src/assets/screenshot.jpg" alt="Demonstration" width='100'>
-
-<video width="320" height="320" controls autoplay>
-  <source src="./src/assets/portfolio-demonstration.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
