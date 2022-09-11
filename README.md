@@ -4,6 +4,18 @@
 
 https://user-images.githubusercontent.com/104615876/189535530-2da42f92-335a-4f68-b5e6-4de078f49427.mp4
 
+# Contents
+
+<ul>
+    <li>Header Section</li>
+    <li>Navigation Bar</li>
+    <li>About Section</li>
+    <li>Experience Section</li>
+    <li>Portfolio Section</li>
+    <li>Contact Section</li>
+    <li>Footer Section</li>
+</ul>
+
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
