@@ -1,13 +1,13 @@
-# Demonstration of Project
+# **Demonstration of Project**
 
 <img src="https://user-images.githubusercontent.com/104615876/189535362-11144347-07ac-4a7d-8267-aa115f923826.jpg" alt="screenshot" height="250" />
 
 https://user-images.githubusercontent.com/104615876/189535530-2da42f92-335a-4f68-b5e6-4de078f49427.mp4
 
-# Contents
+# **Contents**
 
 <ul>
-    <li>Header Section</li>
+    <li><a href="./src/components/header">Header Section</a></li>
     <li>Navigation Bar</li>
     <li>About Section</li>
     <li>Experience Section</li>
@@ -17,6 +17,7 @@ https://user-images.githubusercontent.com/104615876/189535530-2da42f92-335a-4f68
 </ul>
 
 ### Getting Started with Create React App
+![react-version](https://user-images.githubusercontent.com/104615876/189540317-b5c49c8e-fdad-42cb-ac48-11dc95d34367.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
