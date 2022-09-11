@@ -12,8 +12,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Portfolio-1',
-    github: 'https://github.com/SamarthHChinivar' 
+    title: 'Portfolio Website',
+    github: 'https://github.com/SamarthHChinivar/portfolio-website' 
   } ,
 
   {
