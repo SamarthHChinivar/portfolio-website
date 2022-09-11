@@ -7,13 +7,13 @@ https://user-images.githubusercontent.com/104615876/189535530-2da42f92-335a-4f68
 # **Contents**
 
 <ul>
-    <li><a href="./src/components/header">**Header Section**</a></li>
-    <li><a href="./src/components/nav">**Navigation Bar**</a></li>
-    <li><a href="./src/components/about">**About Section**</a></li>
-    <li><a href="./src/components/experience">**Experience Section**</a></li>
-    <li><a href="./src/components/portfolio">**Portfolio Section**</a></li>
-    <li><a href="./src/components/contact">**Contact Section**</a></li>
-    <li><a href="./src/components/footer">**Footer Section**</a></li>
+    <li><a href="./src/components/header">Header Section</a></li>
+    <li><a href="./src/components/nav">Navigation Bar</a></li>
+    <li><a href="./src/components/about">About Section</a></li>
+    <li><a href="./src/components/experience">Experience Section</a></li>
+    <li><a href="./src/components/portfolio">Portfolio Section</a></li>
+    <li><a href="./src/components/contact">Contact Section</a></li>
+    <li><a href="./src/components/footer">Footer Section</a></li>
 </ul>
 
 ### Getting Started with Create React App
