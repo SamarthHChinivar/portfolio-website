@@ -49,10 +49,10 @@ const Contact = () => {
         {/* End of Contact options */}
 
         <form ref={form} onSubmit={sendEmail}>
-          <input type="text" name='name' placeholder='Enter Name' required />
-          <input type="email" name="email" placeholder='Enter Email' required />
-          <textarea name="message" rows="7" placeholder='Enter Message'></textarea>
-          <button type="submit" className='btn btn-primary'>Send Message</button>
+          <input type="text" name='name' placeholder='Enter Name' required title='Enter Name' />
+          <input type="email" name="email" placeholder='Enter Email' required title='Enter Email' />
+          <textarea name="message" rows="7" placeholder='Enter Message' title='Enter Message' ></textarea>
+          <button type="submit" className='btn btn-primary' title='submit'>Send Message</button>
         </form>
       </div>
     </section>
