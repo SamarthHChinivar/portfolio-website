@@ -31,7 +31,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>To work and solve problems in an organization that helps to explore this beautiful industry and an environment to grow. To get an opportunity where I can make the best use of my potential and contribute to the organization's growth. I will give my full efforts and dedication to my work and completing the organization tasks.</p>
+          <p>I would like to solve various real-life problems and to explore these ever-evolving technologies. I am aiming to get an opportunity to work in an organisation where I can make the best use of my potential and contribute to the organization's growth.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
