@@ -26,3 +26,19 @@ nav a {
 nav a:hover {
     background: var(--color-primary-variant);
 }
+
+ /*  MEDIA QUERIES  */
+ /* for smaller screens such as phones */
+ @media screen and (max-width: 600px) {
+    nav{
+        gap: 0.3rem;
+        /* left: 50%; */
+        padding: 0.3 0.8rem;
+        bottom: 1rem;
+    }
+
+    nav a{
+        font-size: 0.9rem;
+        padding: 0.7rem;
+    }
+ }
