@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.png'
+import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.png'
 
@@ -26,15 +26,15 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'SVIT Placement Training',
-    github: 'https://github.com/SamarthHChinivar/svit-training-1' 
+    title: 'Stock Trend Prediction',
+    github: 'https://github.com/SamarthHChinivar/stock-python' 
   } ,
 
   {
     id: 4,
     image: IMG4,
-    title: 'Hacker Rank Java Bootcamp',
-    github: 'https://github.com/SamarthHChinivar/java-4day-Hackerrank-Bootcamp' 
+    title: 'SVIT Placement Training',
+    github: 'https://github.com/SamarthHChinivar/svit-training-1' 
   } ,
 
   {
