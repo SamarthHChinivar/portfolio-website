@@ -2,7 +2,7 @@ import React from 'react'
 import './footer.css'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsGithub} from 'react-icons/bs'
-import {FaFacebookF} from 'react-icons/fa'
+import {SiSololearn} from 'react-icons/si'
 
 const Footer = () => {
   return (
@@ -19,12 +19,12 @@ const Footer = () => {
 
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/samarth-h-chinivar" target="_blank" title='Linkedin'><BsLinkedin/></a>
-        <a href="https://www.facebook.com/samarthh.chinivar" target="_blank" title='Facebook'><FaFacebookF/></a>
         <a href="https://github.com/SamarthHChinivar" target="_blank" title='Github'><BsGithub/></a>
+        <a href="https://www.sololearn.com/profile/6093118" target="_blank" title='Sololearn'><SiSololearn/></a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Samarth H Chinivar. All rights reserved.</small>
+        <small>&copy; Samarth H Chinivar.  All rights reserved.</small>
       </div>
 
     </footer>

@@ -21,7 +21,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Year</small>
+              <small>Fresher</small>
             </article>
 
             <article className='about__card'>
@@ -31,7 +31,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am Samarth H Chinivar from Bengaluru, India. My current ambition is to solve various real-life problems and to explore these ever-evolving technologies. I am aiming to get an opportunity to work in an organisation where I can make the best use of my potential and contribute to the organization's growth.</p>
+          <p>I am Samarth H Chinivar from Bengaluru, India. My current ambition is to solve various real-life problems and explore these ever-evolving technologies. I am aiming to get an opportunity to work in an organization where I can make the best use of my potential and contribute to the organization's growth.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 

@@ -24,6 +24,13 @@ const Contact = () => {
 
       <div className="container contact__container">
         <div className="contact__options">
+        <article className="contact__option">
+            <BsWhatsapp className='contact__option-icon'/>
+            <h4>WhatsApp</h4>
+            <h5>+91 8971201756</h5>
+            <a href="https://api.whatsapp.com/send?phone=918971201756" target='_blank'>Send a message</a>
+          </article>
+          
           <article className="contact__option">
             <MdMarkEmailRead className='contact__option-icon'/>
             <h4>Email</h4>
@@ -36,13 +43,6 @@ const Contact = () => {
             <h4>FB Messenger</h4>
             <h5>Samarth Harish Chinivar</h5>
             <a href="https://m.me/samarthh.chinivar" target='_blank'>Send a message</a>
-          </article>
-
-          <article className="contact__option">
-            <BsWhatsapp className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <h5>+91 8971201756</h5>
-            <a href="https://api.whatsapp.com/send?phone=918971201756" target='_blank'>Send a message</a>
           </article>
         </div>
         

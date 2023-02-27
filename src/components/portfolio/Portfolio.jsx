@@ -4,51 +4,51 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.png'
+import IMG5 from '../../assets/portfolio5.jpg'
+import IMG6 from '../../assets/portfolio6.jpg'
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Portfolio Website',
+    title: 'Samarth Portfolio Website',
     github: 'https://github.com/SamarthHChinivar/portfolio-website' 
   } ,
 
   {
     id: 2,
     image: IMG2,
-    title: 'Todo List using React-JS',
-    github: 'https://github.com/SamarthHChinivar/todo-react' 
-  } ,
-
-  {
-    id: 3,
-    image: IMG3,
-    title: 'Stock Trend Prediction',
-    github: 'https://github.com/SamarthHChinivar/stock-python' 
-  } ,
-
-  {
-    id: 4,
-    image: IMG4,
     title: 'SVIT Placement Training',
     github: 'https://github.com/SamarthHChinivar/svit-training-1' 
   } ,
 
   {
+    id: 3,
+    image: IMG3,
+    title: 'Dubai Real Estate Web App',
+    github: 'https://github.com/SamarthHChinivar/real-estate-next-js' 
+  } ,
+
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Todo List using React.js',
+    github: 'https://github.com/SamarthHChinivar/todo-react' 
+  } ,
+
+  {
     id: 5,
     image: IMG5,
-    title: 'HTML Basics',
-    github: 'https://github.com/SamarthHChinivar/html-basic' 
+    title: 'Stock Trend Prediction',
+    github: 'https://github.com/SamarthHChinivar/stock-python' 
   } ,
 
   {
     id: 6,
     image: IMG6,
-    title: 'C++',
-    github: 'https://github.com/SamarthHChinivar/cpp' 
+    title: 'Simple Counter using React.js',
+    github: 'https://github.com/SamarthHChinivar/counter-react' 
   } ,
 ]
 
@@ -65,8 +65,10 @@ const Portfolio = () => {
               <article key={id} className="portfolio__item">
                 <div className="portfolio__item-image">
                   <img src={image} alt={title} />
+                  <br/>
                 </div>
                 <h3>{title}</h3>
+                <br/>
                 <div className="portfolio__item-cta">
                   <a href={github} className='btn' target='_blank'>Github</a>
                 </div>
