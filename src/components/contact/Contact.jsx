@@ -28,21 +28,21 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+91 8971201756</h5>
-            <a href="https://api.whatsapp.com/send?phone=918971201756" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=918971201756" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
           
           <article className="contact__option">
             <MdMarkEmailRead className='contact__option-icon'/>
             <h4>Email</h4>
             <small>samarthhchinivar.19is@saividya.ac.in</small> <br />
-            <a href="mailto:samarthhchinivar.19is@saividya.ac.in" target='_blank'>Send a message</a>
+            <a href="mailto:samarthhchinivar.19is@saividya.ac.in" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
 
           <article className="contact__option">
             <FaFacebookMessenger className='contact__option-icon'/>
             <h4>FB Messenger</h4>
             <h5>Samarth Harish Chinivar</h5>
-            <a href="https://m.me/samarthh.chinivar" target='_blank'>Send a message</a>
+            <a href="https://m.me/samarthh.chinivar" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
         </div>
         

@@ -18,9 +18,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/samarth-h-chinivar" target="_blank" title='Linkedin'><BsLinkedin/></a>
-        <a href="https://github.com/SamarthHChinivar" target="_blank" title='Github'><BsGithub/></a>
-        <a href="https://www.sololearn.com/profile/6093118" target="_blank" title='Sololearn'><SiSololearn/></a>
+        <a href="https://www.linkedin.com/in/samarth-h-chinivar" target="_blank" rel="noopener noreferrer" title='Linkedin'><BsLinkedin/></a>
+        <a href="https://github.com/SamarthHChinivar" target="_blank" rel="noopener noreferrer" title='Github'><BsGithub/></a>
+        <a href="https://www.sololearn.com/profile/6093118" target="_blank" rel="noopener noreferrer" title='Sololearn'><SiSololearn/></a>
       </div>
 
       <div className="footer__copyright">
