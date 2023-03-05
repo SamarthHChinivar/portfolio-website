@@ -31,7 +31,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am Samarth H Chinivar from Bengaluru, India. My current ambition is to solve various real-life problems and explore these ever-evolving technologies. I am aiming to get an opportunity to work in an organization where I can make the best use of my potential and contribute to the organization's growth.</p>
+          <p>Hello, my name is Samarth H Chinivar and I am based in Bengaluru, India. My current ambition is to solve various real-life problems using ever-evolving technologies. I am highly motivated to find an opportunity to work in an organization where I can contribute my skills and make the best use of my potential to contribute to the organization's growth.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
