@@ -23,6 +23,8 @@ const Footer = () => {
         <a href="https://www.sololearn.com/profile/6093118" target="_blank" rel="noopener noreferrer" title='Sololearn'><SiSololearn/></a>
       </div>
 
+      <img src='https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet' alt='Profile Views' className='view' />
+
       <div className="footer__copyright">
         <small>&copy; Samarth H Chinivar.  All rights reserved.</small>
       </div>

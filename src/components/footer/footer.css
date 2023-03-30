@@ -48,6 +48,7 @@ footer a {
 }
 
 .footer__copyright {
+    margin-top: 2rem;
     margin-bottom: 4rem;
 }
 
@@ -55,8 +56,26 @@ small {
     color: var(--color-bg);
 }
 
+.view {
+    display: block;
+    width: 10%;
+    height: 10%;
+    margin-left: 45%;
+}
+
 /*  MEDIA QUERIES  */
- /* for smaller screens such as phones */
+/* for medium screens such as tablets */
+@media screen and (max-width: 1024px) {
+    .view {
+        display: inline-block;
+        width: 30%;
+        height: 30%;
+        margin: 0%;
+    }
+ } 
+
+
+/* for smaller screens such as phones */
  @media screen and (max-width: 600px) {
     .permalinks {
         flex-direction: column;
@@ -65,5 +84,18 @@ small {
 
     .footer__socials {
         margin-bottom: 2.6rem;
+    }
+    
+    .footer__copyright {
+        margin-top: 1rem;
+    }
+
+    .view {
+        display: inline-block;
+        width: 40%;
+        height: 40%;
+        margin: 0%;
+        object-fit: cover;
+        object-position: top;
     }
  }
