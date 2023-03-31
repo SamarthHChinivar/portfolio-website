@@ -48,7 +48,7 @@ footer a {
 }
 
 .footer__copyright {
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     margin-bottom: 4rem;
 }
 
@@ -86,9 +86,9 @@ small {
         margin-bottom: 2.6rem;
     }
     
-    .footer__copyright {
+    /* .footer__copyright {
         margin-top: 1rem;
-    }
+    } */
 
     .view {
         display: inline-block;

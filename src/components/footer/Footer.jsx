@@ -4,6 +4,7 @@ import {BsLinkedin} from 'react-icons/bs'
 import {BsGithub} from 'react-icons/bs'
 import {SiSololearn} from 'react-icons/si'
 
+
 const Footer = () => {
   return (
     <footer>
@@ -22,8 +23,9 @@ const Footer = () => {
         <a href="https://github.com/SamarthHChinivar" target="_blank" rel="noopener noreferrer" title='Github'><BsGithub/></a>
         <a href="https://www.sololearn.com/profile/6093118" target="_blank" rel="noopener noreferrer" title='Sololearn'><SiSololearn/></a>
       </div>
-
-      <img src='https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet' alt='Profile Views' className='view' />
+      
+      {/* <small>GitHub Profile Views:</small> <br/>
+      <img src='https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet' alt='Profile Views' className='view' /> */}
 
       <div className="footer__copyright">
         <small>&copy; Samarth H Chinivar.  All rights reserved.</small>
