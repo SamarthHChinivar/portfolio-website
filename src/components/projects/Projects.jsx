@@ -1,5 +1,5 @@
 import React from 'react'
-import './portfolio.css'
+import './projects.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
@@ -40,8 +40,8 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Stock Trend Prediction',
-    github: 'https://github.com/SamarthHChinivar/stock-python' 
+    title: 'Exotic Gallery',
+    github: 'https://github.com/SamarthHChinivar/exotic-gallery' 
   } ,
 
   {
@@ -52,11 +52,11 @@ const data = [
   } ,
 ]
 
-const Portfolio = () => {
+const Projects = () => {
   return (
-    <section id='portfolio'>
+    <section id='projects'>
       <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>Projects</h2>
 
       <div className="container container__portfolio">
         {
@@ -81,4 +81,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default Projects

@@ -31,7 +31,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hello, my name is <span>Samarth H Chinivar</span> and I am based in Bengaluru, India. My current ambition is to solve various real-life problems using ever-evolving technologies. I am highly motivated to find an opportunity to work in an organization where I can contribute my skills and make the best use of my potential to contribute to the organization's growth.</p>
+          <p>Hello, my name is <span>Samarth H Chinivar</span> and I am based in Bengaluru, India. With a strong foundation in computer science, I have honed my problem-solving and troubleshooting skills while gaining expertise in web technologies such as JavaScript, HTML, and CSS frameworks including Tailwind CSS and Bootstrap, as well as modern frameworks such as React.js and Next.js. My passion lies in creating efficient and user-friendly interfaces with a focus on performance optimization and usability. I am actively seeking an opportunity to contribute my skills to an organization's growth and make a positive impact.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
