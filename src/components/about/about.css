@@ -80,7 +80,7 @@
    }
 
    .about__content p {
-    margin: 1rem 0 1.5rem;
+    margin: 1rem 1rem 1.5rem;
     text-align: justify;
    }
 }
@@ -105,7 +105,7 @@
     }
     
     .about__content p {
-        margin: 1.5rem 0.5rem;
+        margin: 1.5rem 1rem;
         text-align: justify;
     }
     
