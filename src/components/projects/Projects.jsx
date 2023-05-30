@@ -78,7 +78,7 @@ const Projects = () => {
                 
                 <div className="portfolio__item-image">
                   {/*image size must be standard for all files */}
-                  <img src={image} alt={title} loading='lazy' height={200} width={900} />
+                  <img src={image} alt={title} loading='lazy' height={180} width={900} />
                   <br/>
                 </div>
                 

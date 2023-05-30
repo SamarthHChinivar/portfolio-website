@@ -62,9 +62,14 @@ header{
 @media screen and (max-width: 1024px) {
     header{
         height: 70vh;
-
     }
 
+    .me {
+        width: 15rem;
+        height: 25rem;
+        left: calc(50% - 7.5rem);
+        margin-top: 2rem;
+    }
 }
 
 /*  MEDIA QUERIES  */
@@ -78,5 +83,12 @@ header{
     .header__socials,
     .scroll__down {
         display: none;
+    }
+
+    .me {
+        width: 15rem;
+        height: 25rem;
+        left: calc(50% - 7.6rem);
+        margin-top: 2rem;
     }
 }
