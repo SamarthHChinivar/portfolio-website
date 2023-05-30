@@ -1,8 +1,8 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
-import {FaAward} from 'react-icons/fa'
-import {AiOutlineFundProjectionScreen} from 'react-icons/ai'
+import {IoSchoolSharp} from 'react-icons/io5';
+import {FaSchool} from 'react-icons/fa';
 
 const About = () => {
   return (
@@ -19,15 +19,15 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>Fresher</small>
+              <IoSchoolSharp className='about__icon'/>
+              <h5>Sai Vidya Institute of Technology</h5>
+              <small>8.35 CGPA</small>
             </article>
 
             <article className='about__card'>
-              <AiOutlineFundProjectionScreen className='about__icon'/>
-              <h5>Projects</h5>
-              <small>6+ Completed</small>
+              <FaSchool className='about__icon'/>
+              <h5>Kendriya Vidyalaya RWF</h5>
+              <small>80.6 %</small>
             </article>
           </div>
 

@@ -63,6 +63,7 @@
 .about__content p {
     margin: 2rem 0 2.6rem; /* top right-left bottom*/
     color: var(--color-light);
+    text-align: justify;
 }
 
 /*  MEDIA QUERIES  */
@@ -80,6 +81,7 @@
 
    .about__content p {
     margin: 1rem 0 1.5rem;
+    text-align: justify;
    }
 }
 
@@ -104,7 +106,7 @@
     
     .about__content p {
         margin: 1.5rem 0.5rem;
-        text-align: start;
+        text-align: justify;
     }
     
 }
