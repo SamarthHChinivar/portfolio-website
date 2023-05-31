@@ -1,0 +1,27 @@
+.music__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-block-end: 0%;
+    margin-bottom: 0%;
+    height: 100%;
+}
+
+/*  MEDIA QUERIES  */
+/* for medium screens such as tablets */
+@media screen and (max-width: 1024px) {
+    .music__container {
+        margin-left: 7.5%;
+        width: 85%;
+    }
+}
+
+/*  MEDIA QUERIES  */
+/* for smaller screens such as phones */
+@media screen and (max-width: 600px) {
+    .music__container {
+        margin-left: 7.5%;
+        width: 85%;
+    }
+}

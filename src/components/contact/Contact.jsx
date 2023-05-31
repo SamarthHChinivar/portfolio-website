@@ -38,12 +38,12 @@ const Contact = () => {
             <a href="mailto:samarthhchinivar.19is@saividya.ac.in" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
 
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <FaFacebookMessenger className='contact__option-icon'/>
             <h4>FB Messenger</h4>
             <h5>Samarth Harish Chinivar</h5>
             <a href="https://m.me/samarthh.chinivar" target='_blank' rel="noopener noreferrer">Send a message</a>
-          </article>
+          </article> */}
         </div>
         
         {/* End of Contact options */}

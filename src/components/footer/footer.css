@@ -29,13 +29,13 @@ footer a {
     display: flex;
     justify-content: center;
     gap: 1rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 .footer__socials a {
     background: var(--color-bg);
     color: var(--color-white);
-    padding: 0.8rem;
+    padding: 1rem;
     border-radius: 0.7rem;
     display: flex;
     border: 1px solid transparent;
@@ -72,6 +72,11 @@ small {
         height: 30%;
         margin: 0%;
     }
+
+    
+    .footer__socials {
+        margin-bottom: 1.6rem;
+    }
  } 
 
 
@@ -83,12 +88,8 @@ small {
     }
 
     .footer__socials {
-        margin-bottom: 2.6rem;
+        margin-bottom: 1.6rem;
     }
-    
-    /* .footer__copyright {
-        margin-top: 1rem;
-    } */
 
     .view {
         display: inline-block;
