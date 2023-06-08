@@ -31,7 +31,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hello, my name is <span>Samarth H Chinivar</span> and I am based in Bengaluru, India. With a strong foundation in computer science, I have honed my problem-solving and troubleshooting skills while gaining expertise in web technologies such as JavaScript, HTML, and CSS frameworks including Tailwind CSS and Bootstrap, as well as modern frameworks such as React.js and Next.js.</p>
+          <p>Hello, I am <span>Samarth H. Chinivar</span>, a <span>Software Developer</span> based in Bengaluru, India. As a <span>fresh graduate</span> with a strong foundation in computer science, I possess excellent problem-solving and troubleshooting skills. My expertise lies in web technologies, including HTML, and CSS frameworks like Tailwind CSS and Bootstrap, as well as modern frameworks like <span>React.js</span> and <span>Next.js</span>. I have a knack for quickly adapting to new technologies and have practical experience in JavaScript, C, and Python programming languages. I am committed to delivering clean and reusable code. I am currently seeking an opportunity to apply my skills and contribute to the growth of an organization, making a <span>positive impact</span> along the way.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 

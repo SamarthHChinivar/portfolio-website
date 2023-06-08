@@ -1,8 +1,6 @@
 # **Demonstration of Project**
 
-<img src="https://user-images.githubusercontent.com/104615876/189535362-11144347-07ac-4a7d-8267-aa115f923826.jpg" alt="screenshot" height="250" />
-
-https://user-images.githubusercontent.com/104615876/189535530-2da42f92-335a-4f68-b5e6-4de078f49427.mp4
+<img src="https://github.com/SamarthHChinivar/portfolio-website/assets/104615876/66dd17b2-ab36-42b3-92f1-05e973cd6ceb" alt="screenshot" height="250" />
 
 # **Contents**
 
@@ -10,8 +8,11 @@ https://user-images.githubusercontent.com/104615876/189535530-2da42f92-335a-4f68
     <li><a href="./src/components/header">Header Section</a></li>
     <li><a href="./src/components/nav">Navigation Bar</a></li>
     <li><a href="./src/components/about">About Section</a></li>
+    <li><a href="./src/components/skills">Skills Section</a></li>
     <li><a href="./src/components/experience">Experience Section</a></li>
     <li><a href="./src/components/projects">Projects Section</a></li>
+    <li><a href="./src/components/language">Language Stats Section</a></li>
+    <li><a href="./src/components/song">Song Section</a></li>
     <li><a href="./src/components/contact">Contact Section</a></li>
     <li><a href="./src/components/footer">Footer Section</a></li>
 </ul>
