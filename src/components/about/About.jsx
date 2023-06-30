@@ -20,13 +20,13 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <IoSchoolSharp className='about__icon'/>
-              <h5><span>Sai Vidya Institute of Technology</span></h5>
+              <h5><legend>Sai Vidya Institute of Technology</legend></h5>
               <small>8.45 CGPA</small>
             </article>
 
             <article className='about__card'>
               <FaSchool className='about__icon'/>
-              <h5><span>Kendriya Vidyalaya R.W.F</span></h5>
+              <h5><legend>Kendriya Vidyalaya R.W.F</legend></h5>
               <small>80.6 %</small>
             </article>
           </div>
