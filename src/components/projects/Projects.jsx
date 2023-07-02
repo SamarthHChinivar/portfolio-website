@@ -1,7 +1,7 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpeg'
+import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.jpg'
@@ -12,19 +12,19 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Samarth Portfolio Website',
-    github: 'https://github.com/SamarthHChinivar/portfolio-website',
-    demo: 'http://samarth-portfolio-website.000webhostapp.com',
-    desc: 'Personal Portfolio website using React.js, HTML5, and CSS3 to showcase skills, projects, and social media links.'
+    title: 'AR Restaurant Web App',
+    github: 'https://github.com/SamarthHChinivar/AR-Restaurant-Web-App',
+    demo: 'https://github.com/SamarthHChinivar/AR-Restaurant-Web-App#readme',
+    desc: 'An Augmented Reality based Web App, where user can directly view the 3D version of the food item right in front of them, by using thier smart device.'
   } ,
 
   {
     id: 2,
     image: IMG2,
-    title: '3D Shirt Designer',
-    github: 'https://github.com/SamarthHChinivar/3d-shirt-designer',
-    demo: 'https://3d-shirt-designer-samarthhchinivar.vercel.app', 
-    desc: 'Design your shirts by changing the shirt colour, logo, and texture in this website, which was built using React.js and Three.js.'
+    title: 'Samarth Portfolio Website',
+    github: 'https://github.com/SamarthHChinivar/portfolio-website',
+    demo: 'http://samarth-portfolio-website.000webhostapp.com',
+    desc: 'Personal Portfolio website using React.js, HTML5, and CSS3 to showcase skills, projects, and social media links.'
   } ,
 
   {
