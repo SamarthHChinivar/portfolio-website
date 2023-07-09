@@ -21,19 +21,19 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Samarth Portfolio Website',
-    github: 'https://github.com/SamarthHChinivar/portfolio-website',
-    demo: 'http://samarth-portfolio-website.000webhostapp.com',
-    desc: 'Personal Portfolio website using React.js, HTML5, and CSS3 to showcase skills, projects, and social media links.'
-  } ,
+    title: 'iPhone 14 Pro Landing Page',
+    github: 'https://github.com/SamarthHChinivar/iPhone-14-Pro-Landing-Page',
+    demo: 'https://i-phone-14-pro-landing-page.vercel.app',
+    desc:'Website similar to Apple iPhone 14’s landing page which is built using React.js, WebGi, Three.js, GSAP ScrollTrigger.'
+  },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Dubai Real Estate Web App',
-    github: 'https://github.com/SamarthHChinivar/real-estate-next-js',
-    demo: 'https://samarth-estates.vercel.app', 
-    desc: 'Fully Functional Real Estate web application using Next.js, React.js, and Chakra-UI for listing Dubai properties for rent and sale.'
+    title: 'Samarth Portfolio Website',
+    github: 'https://github.com/SamarthHChinivar/portfolio-website',
+    demo: 'http://samarth-portfolio-website.000webhostapp.com',
+    desc: 'Personal Portfolio website using React.js, HTML5, and CSS3 to showcase skills, projects, and social media links.'
   } ,
 
   {
@@ -57,11 +57,12 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Todo List',
-    github: 'https://github.com/SamarthHChinivar/todo-react', 
-    demo: 'https://samarthhchinivar.github.io/todo-react',
-    desc: 'Built Todo list website using React-JS, Bootstrap which uses local storage of the browser.'
-  } 
+    title: 'Dubai Real Estate Web App',
+    github: 'https://github.com/SamarthHChinivar/real-estate-next-js',
+    demo: 'https://samarth-estates.vercel.app', 
+    desc: 'Fully Functional Real Estate web application using Next.js, React.js, and Chakra-UI for listing Dubai properties for rent and sale.'
+  } ,
+
 ]
 
 const Projects = () => {
