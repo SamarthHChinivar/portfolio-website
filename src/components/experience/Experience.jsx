@@ -5,6 +5,12 @@ import './experience.css';
 const Experience = () => {
   const items = [
     {
+      title: 'Yucca IT Solutions Pvt Ltd',
+      cardTitle: "Trainee Software Engineer (08/2023-Present)",
+      url: "https://www.yuccasolutions.com",
+      cardSubtitle: "Currently I'm Working as a Trainee Software Engineer at Yucca IT Solutions Pvt Ltd, Brigade Tech Park, Banashankari, Bengaluru, India. I'm working under React Native team, which is working on TESS Swiss Froneri App for Tabs. Here, I'm getting the oppurtunities to work on various technologies such as React Native, React.js, Tailwind CSS, TypeScript, JavaScript by using advanced tools such as VS Code, Android Studio, GitLab."
+    },
+    {
       title: 'Varcons Technologies Pvt Ltd',
       cardTitle: "Full Stack Web Intern (03/2023-04/2023)",
       url: "https://exotic-gallery.vercel.app",
@@ -30,7 +36,7 @@ const Experience = () => {
           scrollable={{ scrollbar: true }}
           useReadMore={false}
           // itemWidth={300}
-          cardHeight = {200}
+          cardHeight = {100}
           hideControls={true}
           className="my-timeline"
           

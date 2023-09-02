@@ -34,8 +34,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdMarkEmailRead className='contact__option-icon'/>
             <h4>Email</h4>
-            <small>samarthhchinivar.19is@saividya.ac.in</small> <br />
-            <a href="mailto:samarthhchinivar.19is@saividya.ac.in" target='_blank' rel="noopener noreferrer">Send a message</a>
+            <small>samarthharish321@gmail.com</small> <br />
+            <a href="mailto:samarthharish321@gmail.com" target='_blank' rel="noopener noreferrer">Send a message</a>
           </article>
 
           {/* <article className="contact__option">
