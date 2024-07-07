@@ -22,9 +22,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/samarth-h-chinivar" target="_blank" rel="noopener noreferrer" title='Linkedin'><BsLinkedin/></a>
-        <a href="https://github.com/SamarthHChinivar" target="_blank" rel="noopener noreferrer" title='Github'><BsGithub/></a>
-        <a href="https://www.sololearn.com/profile/6093118" target="_blank" rel="noopener noreferrer" title='Sololearn'><SiSololearn/></a>
+        <a href="https://www.linkedin.com/in/samarth-h-chinivar" target="_blank" rel="noopener noreferrer" title='Linkedin having 6K+ Followers'><BsLinkedin/></a>
+        <a href="https://github.com/SamarthHChinivar" target="_blank" rel="noopener noreferrer" title='GitHub having 5k+ Views'><BsGithub/></a>
+        {/* <a href="https://www.sololearn.com/profile/6093118" target="_blank" rel="noopener noreferrer" title='Sololearn'><SiSololearn/></a> */}
       </div>
       
       {/* <small>GitHub Profile Views:</small> <br/>

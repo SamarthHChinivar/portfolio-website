@@ -1,10 +1,10 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.jpg'
+import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 
@@ -12,19 +12,19 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'AR Restaurant Web App',
-    github: 'https://github.com/SamarthHChinivar/AR-Restaurant-Web-App',
-    demo: 'https://github.com/SamarthHChinivar/AR-Restaurant-Web-App#readme',
-    desc: 'An Augmented Reality based Web App, where user can directly view the 3D version of the food item right in front of them, by using thier smart device.'
-  } ,
-
-  {
-    id: 2,
-    image: IMG2,
     title: 'iPhone 14 Pro Landing Page',
     github: 'https://github.com/SamarthHChinivar/iPhone-14-Pro-Landing-Page',
     demo: 'https://i-phone-14-pro-landing-page.vercel.app',
     desc:'Website similar to Apple iPhone 14’s landing page which is built using React.js, WebGi, Three.js, GSAP ScrollTrigger.'
+  },
+
+  {
+    id: 2,
+    image: IMG2,
+    title: '3D Shirt Designer App',
+    github: 'https://github.com/SamarthHChinivar/3d-shirt-designer',
+    demo: 'https://3d-shirt-designer-azure.vercel.app',
+    desc:'Design your shirts by changing colour, logo, texture of the shirt in this amazing 3D Shirt Designer website.'
   },
 
   {
@@ -48,10 +48,10 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Redtron Portfolio Website',
-    github: 'https://github.com/SamarthHChinivar/redtron',
-    demo: 'https://samarth-redtron.vercel.app',
-    desc: 'A Website to showcase the various projects developed during the Internship at RedTron, which is built using React.js and Next.js' 
+    title: 'NFTs App',
+    github: 'https://github.com/SamarthHChinivar/NFT-RN-App',
+    demo: 'https://github.com/SamarthHChinivar/NFT-RN-App/releases/tag/v1.0.2',
+    desc: 'NFTs App is built using React Native, which has two main screens: the home screen and the details screen.' 
   } ,
 
   {
