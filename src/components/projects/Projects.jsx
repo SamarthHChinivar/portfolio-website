@@ -32,7 +32,7 @@ const data = [
     image: IMG3,
     title: 'Samarth Portfolio Website',
     github: 'https://github.com/SamarthHChinivar/portfolio-website',
-    demo: 'http://samarth-portfolio-website.000webhostapp.com',
+    demo: 'https://samarth-h-chinivar.vercel.app',
     desc: 'Personal Portfolio website using React.js, HTML5, and CSS3 to showcase skills, projects, and social media links.'
   } ,
 
